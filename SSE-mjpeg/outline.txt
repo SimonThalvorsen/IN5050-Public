@@ -1,0 +1,25 @@
+Show ...
+
+v-orig
+
+1. original code 
+
+v-ph-clean-with-timers
+
+2. timers 
+3. timers with and without the -03 option 
+
+v-ph-dct
+
+4. normalization table (w/wo)
+5. cosine table (w/wo)
+6. sse of inner loop
+
+v-ph-dct-avx
+
+7. show avx inner loop 
+8. show add (a+b+c+d+...) vs hadd (inside loop)
+
+v-ph-dct2-avx
+
+9. show hadd outside the loop
