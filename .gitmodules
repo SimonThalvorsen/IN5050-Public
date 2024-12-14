@@ -1,0 +1,6 @@
+[submodule "HE-02/in5050-codec63"]
+	path = HE-02/in5050-codec63
+	url = https://github.com/griwodz/in5050-codec63.git
+[submodule "HE-01/in5050-codec63"]
+	path = HE-01/in5050-codec63
+	url = https://bitbucket.org/mpg_code/in5050-codec63.git
